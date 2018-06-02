@@ -1,6 +1,6 @@
 # Stacey Starken-Portfolio
 
-Welcome - here is a collection of coursework completed through the University of MN coding bootcamp program.
+Welcome, here is a collection of coursework completed through the University of MN coding bootcamp program.
 
 Our projects include such intriguing items as:
 * a JavaScript trivia game with timers
