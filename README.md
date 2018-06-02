@@ -8,4 +8,4 @@ Our projects include such intriguing items as:
 * the LIRI bot that knows your favorite song, movie and the best Tweets around
 * a train scheduling application featuring the Firebase database
 * an alphabet guessing game played with the browser
-* a crystal game that challenges the user to match a total
+* a crystal game that challenges the user to match a goal amount
