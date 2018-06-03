@@ -1,4 +1,4 @@
-# Stacey Starken-Portfolio
+# Stacey Starken - Portfolio
 
 Welcome, here is a collection of coursework completed through the University of MN coding bootcamp program.
 
