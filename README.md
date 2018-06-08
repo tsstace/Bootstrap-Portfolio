@@ -1,4 +1,4 @@
-# :school_satchel: Stacey Starken - Portfolio :notebook:
+# :books: Stacey Starken - Portfolio :notebook:
 
 Welcome, here is a collection of coursework completed through the University of MN coding bootcamp program.
 
