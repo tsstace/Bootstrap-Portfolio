@@ -1,4 +1,4 @@
-# Stacey Starken - Portfolio
+# :school_satchel: Stacey Starken - Portfolio :notebook:
 
 Welcome, here is a collection of coursework completed through the University of MN coding bootcamp program.
 
@@ -9,3 +9,4 @@ Our projects include such intriguing items as:
 * a train scheduling application featuring the Firebase database
 * an alphabet guessing game played with the browser
 * a crystal game that challenges the user to match a goal amount
+* a Node app with a storefront, aka "Bamazon"
