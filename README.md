@@ -10,3 +10,4 @@ Our projects include such intriguing items as:
 * an alphabet guessing game played with the browser
 * a crystal game that challenges the user to match a goal amount
 * a Node app with a storefront, aka "Bamazon"
+* a full stack site that will find your new BFF - Friend Finder!
