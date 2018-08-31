@@ -2,7 +2,7 @@
 
 Welcome, here is a collection of coursework completed through the University of MN coding bootcamp program.
 
-Our projects include such apps as:
+Projects include such apps as:
 * a JavaScript trivia game with timers
 * a Node app with a storefront, aka "Bamazon"
 * a full stack site that will find your new BFF - Friend Finder!
