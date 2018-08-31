@@ -1,6 +1,6 @@
 # :notebook: Stacey Starken - [Portfolio](https://tsstace.github.io/Portfolio/) :octocat:
 
-Welcome, here is a collection of coursework completed through the University of MN coding bootcamp program.
+Welcome, here is a collection of coursework completed through the University of MN Coding Bootcamp program.
 
 Projects include such apps as:
 * a JavaScript trivia game with timers
