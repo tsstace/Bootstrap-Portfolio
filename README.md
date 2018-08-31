@@ -1,6 +1,4 @@
-:octocat: 
-
-# Stacey Starken - Portfolio :notebook:
+# :octocat: Stacey Starken - [Portfolio] (https://tsstace.github.io/Portfolio/) :notebook:
 
 Welcome, here is a collection of coursework completed through the University of MN coding bootcamp program.
 
