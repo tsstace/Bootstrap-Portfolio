@@ -13,3 +13,5 @@ Our projects include such apps as:
 * a crystal game that challenges the user to match a goal amount
 * a React clicky game featuring "The Simpsons"
 * a React "New York Times" article scraper
+
+![Screenshot](./assets/images/portfolio.jpg)
